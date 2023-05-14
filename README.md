@@ -41,12 +41,13 @@ footer {
   </head>
   <body>
     <header>
-      <a class="link-header" href="shat.html">Шатковский Антон</a>
-    </header>
+      <a class="link-header" href="https://antonshatkovski.github.io/obomni/">Шатковский Антон</a>
+      </header>
+      
     <main>
       <nav>
-        <a class="link-nav" href="mysites.html"><b>мои лучшие работы</b></a>
-        <a class="link-nav" href="info.html"><b>полезная информация</b></a>
+        <a class="link-nav" href="https://antonshatkovski.github.io/luchie/"><b>мои лучшие работы</b></a>
+        <a class="link-nav" href="https://antonshatkovski.github.io/infa/"><b>полезная информация</b></a>
       </nav>
       <h1>Web-sites<br/> developer</h1>
       <p>• разметка и стилизация</p>
