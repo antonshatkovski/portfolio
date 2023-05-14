@@ -34,7 +34,7 @@ footer {
     padding: 20px;
 }</style>
 
-<html>
+[<html>
   <head>
     <title>Антон Шатковский</title>
     <link rel="stylesheet" href="style.css"/>
@@ -47,7 +47,7 @@ footer {
     <main>
       <nav>
         <a class="link-nav" href="https://antonshatkovski.github.io/luchie/"><b>мои лучшие работы</b></a>
-        <a class="link-nav" href="https://antonshatkovski.github.io/infa/"><b>полезная информация</b></a>
+        <a class="link-nav" href="https://antonshatkovski.github.io/infdo/"><b>полезная информация</b></a>
       </nav>
       <h1>Web-sites<br/> developer</h1>
       <p>• разметка и стилизация</p>
