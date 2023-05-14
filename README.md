@@ -38,6 +38,7 @@ footer {
   <head>
     <title>Антон Шатковский</title>
     <link rel="stylesheet" href="style.css"/>
+    <meta name="google-site-verification" content="OHDgMW0GX81mvPkP1YrSI-grE-u-wF4-Bby6Q4J1A3A" />
   </head>
   <body>
     <header>
